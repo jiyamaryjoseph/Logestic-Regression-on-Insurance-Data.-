@@ -1,8 +1,8 @@
-# LogRegression-on ML-(Insurance-Data/ iris dataset)(reference:https://learn.g2.com/logistic-regression)
+# LogRegression-on ML-(eg_project:Insurance-Data/ iris dataset)(reference:https://learn.g2.com/logistic-regression)
 
 Logistic regression is named after the function used at its heart, the logistic function. Statisticians initially used it to describe the properties of population growth. Sigmoid function and logit function are some variations of the logistic function. Logit function is the inverse of the standard logistic function.
 
-            ![image](https://user-images.githubusercontent.com/83010684/174529370-51f4eb34-1773-436c-b473-c19fec8319b0.png)
+![image](https://user-images.githubusercontent.com/83010684/174529370-51f4eb34-1773-436c-b473-c19fec8319b0.png)
 
 
 In effect, it's an S-shaped curve capable of taking any real number and mapping it into a value between 0 and 1, but never precisely at those limits. It's represented by the equation:
